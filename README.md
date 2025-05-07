@@ -1,7 +1,7 @@
 # Bad-translator
 A WIP remake of the bad translator extension on App scripts, this works in school. have fun!
 
-##Installation
+## Installation
 
  - Go onto google slides
  - click extensions
@@ -13,6 +13,6 @@ A WIP remake of the bad translator extension on App scripts, this works in schoo
  - Wait
  - And you're done!!
 
-##Please note
+## Please note
 
  - This is WIP the code will be fucky, Don't complain to me about it atm.
